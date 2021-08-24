@@ -17,6 +17,7 @@ header {
 }    
     
 h1 {
+    /* Name of the company */
     display: inline-block;
     font-size: 48px;
 }
@@ -67,11 +68,13 @@ p {
 }
 
 .float-left {
+    /* Display image to the left of the card */
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    /* Display image to the right of the card */
     float: right;
     margin-left: 25px;
 }
@@ -108,6 +111,7 @@ h3 {
 
 
 .benefits-image {
+    /* Center image in the right column */
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -125,10 +129,12 @@ h3 {
 
 
 .seo-orm-smm img {
+    /* To align images within the left column*/
     max-height: 200px;
 }
 
 h2 {
+    /* Text heading from the left section*/
     margin-bottom: 20px;
     font-size: 36px;
 }
