@@ -6,7 +6,7 @@ Added comments before each section or element.
 
 ## Link to Website
 
-Link to deployed application: https://annanguyen1.github.io/Week1-HW/
+Link to deployed application: https://annanguyen1.github.io/Code-Refactor/
 
 
 ## Screenshot
